@@ -12,8 +12,4 @@ public class Protection {
         System.out.println("Protected  = "+pro);
         System.out.println("Public = "+pub);
     }
-    public static void main(String main[]){
-    
-    }
-
 }
